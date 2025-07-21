@@ -13,6 +13,6 @@ cd Social-pack
 
 chmod +x *
 
-pip install -r requirement.txt
+pip install -r requirements.txt
 
 ./run.sh
